@@ -1,2 +1,2 @@
-# Algorithms
-All Algorithms including practice for competitive Programming
+# Mathematics
+I tend to learn mathematics faster with coding
